@@ -10,6 +10,4 @@ Whoever is closer to the target number wins the round. The user will win in a ti
 Click next round to start a new round.
 
 KNOWN BUGS:
-1) User can type in a number greater than 9 and the game will not work
-
-2) 
+1) User can type in a number greater than 9, the highest random number possible for the target is 9, so the user should not guess higher than that.
